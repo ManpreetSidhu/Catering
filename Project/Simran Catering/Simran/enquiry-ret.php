@@ -101,7 +101,7 @@
 				<div style="clear:both"> </div>
 				<hr>
 				<div id="footer">
-					<p>This Website Designed By <a href="#">Jasleen Kaur</a></p>
+					<p>This Website Designed By <a href="#">Manpreet Kaur</a></p>
 				</div>
 			</div>
 		</div>
